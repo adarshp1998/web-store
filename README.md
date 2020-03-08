@@ -1,5 +1,5 @@
 # OnlineShop
-  The project is a simple online shop made during course in @CodersLab using PHP and JavaScript.
+  The project is a simple online shop made during course in DCC using PHP and JavaScript.
 
   1. User can register new account and log in.
   2. User can browse shop and add items to cart.
